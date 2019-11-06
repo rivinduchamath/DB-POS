@@ -1,0 +1,8 @@
+.idea/**
+lib/**
+out/**
+**/.idea
+**/.iml
+HotelManagementSystem/**
+In-Memory POS.iml
+
